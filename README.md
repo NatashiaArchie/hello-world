@@ -1,2 +1,4 @@
 # hello-world
-Hello Word
+Hello World
+
+This is my very first time trying using version control
